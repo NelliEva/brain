@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brain/static/css/main.6f4fab50.chunk.css",
+    "main.js": "/brain/static/js/main.4cdbe48b.chunk.js",
+    "main.js.map": "/brain/static/js/main.4cdbe48b.chunk.js.map",
+    "runtime-main.js": "/brain/static/js/runtime-main.4216d9b8.js",
+    "runtime-main.js.map": "/brain/static/js/runtime-main.4216d9b8.js.map",
+    "static/js/2.9c5d359d.chunk.js": "/brain/static/js/2.9c5d359d.chunk.js",
+    "static/js/2.9c5d359d.chunk.js.map": "/brain/static/js/2.9c5d359d.chunk.js.map",
+    "static/js/3.9cd61eae.chunk.js": "/brain/static/js/3.9cd61eae.chunk.js",
+    "static/js/3.9cd61eae.chunk.js.map": "/brain/static/js/3.9cd61eae.chunk.js.map",
+    "index.html": "/brain/index.html",
+    "static/css/main.6f4fab50.chunk.css.map": "/brain/static/css/main.6f4fab50.chunk.css.map",
+    "static/js/2.9c5d359d.chunk.js.LICENSE.txt": "/brain/static/js/2.9c5d359d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4216d9b8.js",
+    "static/js/2.9c5d359d.chunk.js",
+    "static/css/main.6f4fab50.chunk.css",
+    "static/js/main.4cdbe48b.chunk.js"
+  ]
+}
